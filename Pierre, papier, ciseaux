@@ -1,31 +1,27 @@
 import random
 
-user_choice = input("Enter a choice between Rock/Paper/Scissors: ")
-Possibiblities = ["rock", "paper", "scissors"]
-computer_choice = random.choice(Possibiblities)
+choix_utilisateur = input("Choisis l'une des options suivantes: Pierre/Papier/Ciseaux: ")
+Possibiblites = ["pierre", "papier", "ciseaux"]
+choix_ordinateur = random.choice(Possibiblites)
 
-print(f"\nYou chose {user_choice}, computer chose {computer_choice}.\n")
+print(f"\nTu as choisi {choix_utilisateur}, l'ordinateur a choisi {choix_ordinateur}.\n")
 
-if user_choice == computer_choice:
-    print(f"Both players selected {user_choice}. It's a tie!")
-elif user_choice == "rock":
-    if computer_choice == "scissors":
-        print("You win!")
+if choix_utilisateur == choix_ordinateur:
+    print(f"Les deux joueurs ont choisi {choix_utilisateur}. Match nul !")
+elif choix_utilisateur == "pierre":
+    if choix_ordinateur == "ciseaux":
+        print("Tu as gagné !")
     else:
-        print("You lose!")
+        print("Tu as perdu !")
 
-
-
-elif user_choice == "paper":
-    if computer_choice == "rock":
-        print("You win!")
+elif choix_utilisateur == "papier":
+    if choix_ordinateur == "pierre":
+        print("Tu as gagné !")
     else:
-        print("You lose!")
+        print("Tu as perdu !")
 
-
-
-elif user_choice == "scissors":
-    if computer_choice == "paper":
-        print("You win!")
+elif choix_utilisateur == "ciseaux":
+    if choix_ordinateur == "papier":
+        print("Tu as gagné !")
     else:
-        print("You lose!")
+        print("Tu as perdu !")
