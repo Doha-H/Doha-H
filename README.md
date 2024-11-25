@@ -18,7 +18,7 @@
 
 ###
 
-<h4 align="left">🙎🏻‍♀️ Je m'appelle Doha Hamdali.<br>🧠 Actuellement en troisième année de licence de psychologie, je m'intéresse également à la programmation en tant qu'amatrice.<br>💻 Passionnée par les nouvelles technologies et l'ergonomie cognitive, j'explore ces domaines en parallèle de mes études.</h4>
+<h4 align="left">.</h4>
 
 ###
 
