@@ -1,8 +1,8 @@
-<h1 align="left">Bienvenu 🐝</h1>
+<h1 align="left">Doha Hamdali -- Data, IA, Innovation </h1>
 
 ###
 
-<h4 align="left">Ici, je vous présente humblement quelques projets débutants qui m'ont permis de mettre en pratique les notions de base de Python.</h4>
+<h4 align="left">Étudiante en Master à l’IDMC, je me spécialise dans l’analyse de données, l’intelligence artificielle et les approches multidisciplinaires liant cognition, informatique et sciences humaines.</h4>
 
 ###
 
