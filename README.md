@@ -55,14 +55,6 @@ Passionnée par l'ingénierie des données, je m'appuie sur mon expertise en Sci
   <img src="https://img.shields.io/badge/Webots-EA1F33?style=for-the-badge&logo=webots&logoColor=white" alt="Webots" />
 </div>>
 
-#### 🔧 Outils et environnement
-<div align="left">
-  <img src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
-  <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Webots-EA1F33?style=for-the-badge&logo=webots&logoColor=white" alt="Webots" />
-</div>
-
 ---
 
 ### 📂 Projets majeurs
