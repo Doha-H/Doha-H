@@ -1,44 +1,59 @@
 <h1 align="center">Bonjour, je suis Doha ! 👋</h1>
 
 <p align="center">
-  <strong>Étudiante en Master 2 à l'IDMC | Aspirante Data Scientist et Machine Learning Engineer</strong>
+  <strong>Étudiante en Master 2 à l'IDMC | Aspirante Data engineer et analyst</strong>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Recherche-Stage_Data-blue?style=for-the-badge" alt="Statut" />
-  <img src="https://img.shields.io/badge/Focus-Data_Science_&_Analytics-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Recherche-Stage_Fin_d'Études_Data-blue?style=for-the-badge" alt="Statut" />
+  <img src="https://img.shields.io/badge/Focus-Data_Engineering_&_BI-red?style=for-the-badge" />
 </p>
 
 ---
 
 ### 👩‍💻 À propos de moi
-Passionnée par l'intersection entre l'**Intelligence Artificielle**, la **Data Science** et les **Sciences Cognitives**. Mon parcours multidisciplinaire à l'IDMC me permet d'aborder les données non seulement sous l'angle mathématique, mais aussi avec une compréhension profonde de la cognition humaine et de l'innovation technologique.
+Passionnée par l'ingénierie des données, je m'appuie sur mon expertise en Sciences Cognitives et en IA pour concevoir des solutions data réellement exploitables. Mon parcours à l'IDMC me permet de ne pas seulement livrer des chiffres, mais de bâtir des architectures de données fiables et des outils de pilotage (BI) optimisés pour la prise de décision humaine.
 
 - 🎓 **Formation** : Master en Sciences Cognitives parcours Intelligence Artificielle centrée humain (IDMC).
-- 🧠 **Expertise** : Deep Learning, Analyse de données massives, comportement humain.
-- 🎯 **Objectif** : Mettre mes compétences techniques au service de problèmes data concrets.
-
+- 🧠 **Expertise** : Industrialisation de données (SQL, ETL), modélisation et conception de dashboards d'aide à la décision, analyse des besoins métiers.
+- 
 ---
 
 ### 🛠️ Mon stack technique
 
-#### 🧠 Data science et Machine learning
+#### 🏗️ Data Engineering
+*Collecte, nettoyage et structuration des données.*
 <div align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+</div>
+
+#### 📊 Business Intelligence et visualisation
+*Conception de rapports décisionnels et visualisation de données.*
+<div align="left">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Matplotlib-green?style=for-the-badge&logo=Matplotlib&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-%233776AB.svg?style=for-the-badge&logo=Seaborn&logoColor=white" alt="Seaborn" />
+</div>
+
+#### 🧠 Machine Learning & IA
+*Modélisation prédictive et algorithmes avancés.*
+<div align="left">
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
 </div>
 
-#### 📊 Visualisation et reporting
+#### 🔧 Outils & Environnement
 <div align="left">
-<img src="https://img.shields.io/badge/Matplotlib-green?style=for-the-badge&logo=Matplotlib&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Seaborn-%233776AB.svg?style=for-the-badge&logo=Seaborn&logoColor=white" alt="Seaborn" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-</div>
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
+  <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Webots-EA1F33?style=for-the-badge&logo=webots&logoColor=white" alt="Webots" />
+</div>>
 
 #### 🔧 Outils et environnement
 <div align="left">
