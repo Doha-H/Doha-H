@@ -1,7 +1,7 @@
 <h1 align="center">Bonjour, je suis Doha ! 👋</h1>
 
 <p align="center">
-  <strong>Étudiante en Master 2 à l'IDMC | Aspirante Data engineer et analyst</strong>
+  <strong>Étudiante en Master 2 à l'IDMC | Aspirante Data Engineer et Data Analyst</strong>
 </p>
 
 <p align="center">
@@ -53,7 +53,7 @@ Passionnée par l'ingénierie des données, je m'appuie sur mon expertise en Sci
   <img src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
   <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter" />
   <img src="https://img.shields.io/badge/Webots-EA1F33?style=for-the-badge&logo=webots&logoColor=white" alt="Webots" />
-</div>>
+</div>
 
 ---
 
@@ -61,11 +61,12 @@ Passionnée par l'ingénierie des données, je m'appuie sur mon expertise en Sci
 
 | Catégorie | Projet | Description & Résultats | Stack Technique |
 | :--- | :--- | :--- | :--- |
-| **Deep Learning** | [Robotique Humanoïde](https://github.com/Doha-H) | Commande gestuelle en temps réel pour robot NAO (MediaPipe + MLP). | `Python` `TensorFlow` `Webots` |
-| **Deep Learning** | [Détecteur de tumeur cérébrale](https://github.com/Doha-H) | Classification de tumeurs cérébrales par CNN avec pipeline de Data Augmentation. | `PyTorch` `Computer Vision` |
-| **Big Data / EDA** | [Analyse des accidents de la route](https://github.com/Doha-H) | Analyse de **2,8M de lignes**. Insights sur les pics horaires et ingénierie de variables. | `Pandas` `Seaborn` `Matplotlib` |
-| **Data Analysis** | [Industrie musicale](https://github.com/Doha-H) | Modélisation des tendances de popularité culturelle (Projet Académique). | `Séries Temporelles` `Statistiques` |
-| **Machine Learning** | [Prediction de l'attrition](https://github.com/Doha-H) |Prédiction de l'attrition client et optimisation du score F1. | `Scikit-Learn` `Classification` |
+| **Big Data** | [Analyse des accidents de la route](https://github.com/Doha-H) | Traitement de **2,8M de lignes**. Nettoyage de données massives et extraction d'insights sur les flux de mobilité. | `Pandas` `Seaborn` `Python` |
+| **Business Intelligence** | [Dashboard d'aide à la décision](https://github.com/Doha-H) | **(Visuels disponibles)** Transformation de données brutes en KPI interactifs pour le pilotage opérationnel. | `Power BI` `Excel` `DAX` |
+| **Data Analysis** | [Industrie musicale](https://github.com/Doha-H) | Modélisation des tendances de popularité (Séries Temporelles & Statistiques descriptives). | `Statistiques` `Python` |
+| **Machine Learning** | [Prédiction de l'attrition](https://github.com/Doha-H) | Analyse prédictive du churn client avec optimisation du score F1 (approche orientée métier). | `Scikit-Learn` `Analytics` |
+| **Deep Learning / IA** | [Robotique Humanoïde](https://github.com/Doha-H) | Commande gestuelle en temps réel pour robot NAO (MediaPipe + MLP). Expertise en IA temps réel. | `TensorFlow` `Webots` `Python` |
+| **Computer Vision** | [Détecteur de tumeur cérébrale](https://github.com/Doha-H) | Classification par CNN avec pipeline de Data Augmentation. Rigueur scientifique et traitement d'images. | `PyTorch` `Deep Learning` |
 
 ---
 
