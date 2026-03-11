@@ -16,7 +16,7 @@ Passionnée par l'ingénierie des données, je m'appuie sur mon expertise en Sci
 
 - 🎓 **Formation** : Master en Sciences Cognitives parcours Intelligence Artificielle centrée humain (IDMC).
 - 🧠 **Expertise** : Industrialisation de données (SQL, ETL), modélisation et conception de dashboards d'aide à la décision, analyse des besoins métiers.
-- 
+
 ---
 
 ### 🛠️ Mon stack technique
