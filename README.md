@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="header.svg" alt="Animated ASCII portrait of Doha and a terminal introduction" width="100%" />
+  <img src="header_grayscale.svg" alt="Animated ASCII portrait of Doha" width="100%" />
 </p>
 
 ---
