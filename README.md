@@ -1,77 +1,94 @@
-<h1 align="center">Bonjour, je suis Doha ! 👋</h1>
+<h1 align="center">Hi, I'm Doha! 👋</h1>
 
 <p align="center">
-  <strong>Étudiante en Master 2 à l'IDMC | Aspirante Data Engineer et Data Analyst</strong>
+  <b>AI Engineer</b> · LLMs · RAG · Computer Vision<br/>
+  <sub>From cognitive science to production AI</sub>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Recherche-Stage_Fin_d'Études_Data-blue?style=for-the-badge" alt="Statut" />
-  <img src="https://img.shields.io/badge/Focus-Data_Engineering_&_BI-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open_to-AI_Engineering_roles-8B5CF6?style=for-the-badge" alt="Open to AI Engineering roles" />
+  <a href="https://linkedin.com/in/doha-hamdali"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:hamdali.doha@gmail.com"><img src="https://img.shields.io/badge/Email-1F2430?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<p align="center">
+  <img src="header.svg" alt="Animated ASCII portrait of Doha and a terminal introduction" width="100%" />
 </p>
 
 ---
 
-### 👩‍💻 À propos de moi
-Passionnée par l'ingénierie des données, je m'appuie sur mon expertise en Sciences Cognitives et en IA pour concevoir des solutions data réellement exploitables. Mon parcours à l'IDMC me permet de ne pas seulement livrer des chiffres, mais de bâtir des architectures de données fiables et des outils de pilotage (BI) optimisés pour la prise de décision humaine.
+### 👩‍💻 About me
 
-- 🎓 **Formation** : Master en Sciences Cognitives parcours Intelligence Artificielle centrée humain (IDMC).
-- 🧠 **Expertise** : Industrialisation de données (SQL, ETL), modélisation et conception de dashboards d'aide à la décision, analyse des besoins métiers.
+I'm an AI engineer with a background in cognitive science. I care less about what a model *can* generate and more about whether the person using it can **trust** what it says.
 
----
-
-### 🛠️ Mon stack technique
-
-#### 🏗️ Data Engineering
-*Collecte, nettoyage et structuration des données.*
-<div align="left">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-</div>
-
-#### 📊 Business Intelligence et visualisation
-*Conception de rapports décisionnels et visualisation de données.*
-<div align="left">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/Matplotlib-green?style=for-the-badge&logo=Matplotlib&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Seaborn-%233776AB.svg?style=for-the-badge&logo=Seaborn&logoColor=white" alt="Seaborn" />
-</div>
-
-#### 🧠 Machine Learning & IA
-*Modélisation prédictive et algorithmes avancés.*
-<div align="left">
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
-</div>
-
-#### 🔧 Outils & Environnement
-<div align="left">
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
-  <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Webots-EA1F33?style=for-the-badge&logo=webots&logoColor=white" alt="Webots" />
-</div>
+I spent 5 months as an AI engineering intern at **Cognivance**, a startup that uses AI to capture and teach industrial know-how, and I now keep working with them as a **freelance AI engineer**.
 
 ---
 
-### 📂 Projets majeurs
+### ✨ What I build
 
-| Catégorie | Projet | Description & Résultats | Stack Technique |
-| :--- | :--- | :--- | :--- |
-| **Big Data** | [Analyse des accidents de la route](https://github.com/Doha-H) | Traitement de **2,8M de lignes**. Nettoyage de données massives et extraction d'insights sur les flux de mobilité. | `Pandas` `Seaborn` `Python` |
-| **Business Intelligence** | [Dashboard d'aide à la décision](https://github.com/Doha-H) | **(Visuels disponibles)** Transformation de données brutes en KPI interactifs pour le pilotage opérationnel. | `Power BI` `Excel` `DAX` |
-| **Data Analysis** | [Industrie musicale](https://github.com/Doha-H) | Modélisation des tendances de popularité (Séries Temporelles & Statistiques descriptives). | `Statistiques` `Python` |
-| **Machine Learning** | [Prédiction de l'attrition](https://github.com/Doha-H) | Analyse prédictive du churn client avec optimisation du score F1 (approche orientée métier). | `Scikit-Learn` `Analytics` |
-| **Deep Learning / IA** | [Robotique Humanoïde](https://github.com/Doha-H) | Commande gestuelle en temps réel pour robot NAO (MediaPipe + MLP). Expertise en IA temps réel. | `TensorFlow` `Webots` `Python` |
-| **Computer Vision** | [Détecteur de tumeur cérébrale](https://github.com/Doha-H) | Classification par CNN avec pipeline de Data Augmentation. Rigueur scientifique et traitement d'images. | `PyTorch` `Deep Learning` |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🧾 Reliable LLM outputs</h4>
+      Generating work instructions from expert interviews and videos, with hallucinations cut by forcing the model to flag missing information instead of inventing it.
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎥 Computer vision pipelines</h4>
+      Gesture analysis with YOLOv8-pose (17 keypoints) that splits industrial tasks into gestures, actions and steps.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📚 RAG chatbots</h4>
+      Answers grounded in company documents, with every claim cited back to its source.
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚙️ AI backends</h4>
+      FastAPI services on Azure SQL that put these models in production.
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📫 Contactez-moi
-- **LinkedIn** : [Doha Hamdali](https://linkedin.com/in/doha-hamdali)
-- **Email** : hamdali.doha@gmail.com
+### 🧰 Tech stack
 
-<h3 align="center">Bonne visite sur mon profil ! ✨</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,fastapi,postgres,azure,anaconda,git,github,vscode,pycharm&perline=13" alt="Tech stack" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LLMs-8B5CF6?style=flat-square" />
+  <img src="https://img.shields.io/badge/RAG-8B5CF6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-8B5CF6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Vector_DB-8B5CF6?style=flat-square" />
+  <img src="https://img.shields.io/badge/YOLOv8-0EA5E9?style=flat-square" />
+  <img src="https://img.shields.io/badge/MediaPipe-0EA5E9?style=flat-square" />
+  <img src="https://img.shields.io/badge/MLX-0EA5E9?style=flat-square" />
+  <img src="https://img.shields.io/badge/Pandas-64748B?style=flat-square" />
+  <img src="https://img.shields.io/badge/NumPy-64748B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Jupyter-64748B?style=flat-square" />
+</p>
+
+---
+
+### 📂 Projects
+
+| | Project | What it does | Stack |
+| :---: | :--- | :--- | :--- |
+| 🧠 | [**Brain tumor detector**](https://github.com/Doha-H) | CNN image classifier with a data augmentation pipeline | `PyTorch` |
+| 🤖 | [**Humanoid robot control**](https://github.com/Doha-H) | Real-time gesture control of a NAO robot (MediaPipe + MLP) | `TensorFlow` `Webots` |
+| 📉 | [**Customer churn prediction**](https://github.com/Doha-H) | Predictive model tuned on F1 score for business use | `scikit-learn` |
+| 🚗 | [**Road accident analysis**](https://github.com/Doha-H) | Cleaning and analysis of 2.8M rows of mobility data | `Pandas` `Seaborn` |
+| 🎵 | [**Music industry trends**](https://github.com/Doha-H) | Time series and statistics on song popularity | `Python` |
+| 📊 | [**Decision dashboard**](https://github.com/Doha-H) | Raw data turned into interactive KPIs | `Power BI` `DAX` |
+
+---
+
+<p align="center">
+  <b>Let's build AI people can trust.</b><br/>
+  <a href="https://linkedin.com/in/doha-hamdali">LinkedIn</a> · <a href="mailto:hamdali.doha@gmail.com">hamdali.doha@gmail.com</a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:8B5CF6&height=110&section=footer" width="100%" alt="" />
